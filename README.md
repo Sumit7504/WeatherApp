@@ -21,6 +21,15 @@ A clean, Weather App built using **HTML**, **CSS**, and **JavaScript** that disp
 - OpenWeatherMap API
 
 ---
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+
+📝 License
+This project is open-source and free to use under the MIT License.
+
+👨‍💻 Author
+Sumit Sahu
+🔗GitHub | https://github.com/Sumit7504
 
 ## 🔑 Getting Started
 
@@ -28,14 +37,3 @@ A clean, Weather App built using **HTML**, **CSS**, and **JavaScript** that disp
 
 ```bash
 git clone https://github.com/Sumit7504/WeatherApp.git
-
-🤝 Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
-
-📝 License
-This project is open-source and free to use under the MIT License.
-
-
-👨‍💻 Author
-Sumit Sahu
-🔗GitHub | https://github.com/Sumit7504
